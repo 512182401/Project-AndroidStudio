@@ -11,7 +11,6 @@ import java.io.File;
  * Created by Administrator on 2016/8/9.
  */
 public class MyFileUtil {
-
     //public static final File dir_app_search=getDir("AppSearch");
     //public static final File DIR_TEMP_DATA=getDir("TempData");
     public static final File DIR_IMAGE=getDir("image");
