@@ -9,6 +9,7 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name">
+<!--使用客户端上传代码-->
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait"
